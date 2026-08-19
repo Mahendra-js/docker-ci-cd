@@ -29,4 +29,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: mahijs/my-hpe:latest
+          tags: mahijs/test-hpe:latest
